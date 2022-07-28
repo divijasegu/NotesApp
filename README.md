@@ -1,10 +1,10 @@
-***Login Page***
+***SIGNUP PAGE***
 
 <img src="notesapp/SIGNUP.jpeg" width="300" height="600">
 
 ***LOGIN PAGE***
 
-<img src="notesapp/loginpage" width="300" height="600">
+<img src="notesapp/loginpage.jpeg" width="300" height="600">
 
 ***NOTEHOMEPAGE***
 
