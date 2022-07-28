@@ -1,6 +1,10 @@
 ***Login Page***
 
-<img src="notesapp/WhatsApp Image 2022-07-29 at 12.41.33 AM (1).jpeg" width="300" height="600">
+<img src="notesapp/SIGNUP.jpeg" width="300" height="600">
+
+***LOGIN PAGE***
+
+<img src="notesapp/loginpage" width="300" height="600">
 
 ***NOTEHOMEPAGE***
 
