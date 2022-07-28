@@ -32,7 +32,7 @@ public class notedetails extends AppCompatActivity {
         Toolbar toolbar =findViewById(R.id.toolbarofnotedetail);
 
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
 
 

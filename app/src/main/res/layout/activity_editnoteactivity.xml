@@ -9,7 +9,7 @@
         android:id="@+id/toolbarofeditnote"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="@color/white"
+        android:background="@color/color1"
 
 
         >
@@ -35,9 +35,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/toolbarofeditnote"
-        android:background="#faf7f7"
+        android:background="#9FE0E8"
         android:gravity="top|left"
         android:hint="Type Notes.."
+        android:textColorHint="@color/black"
         android:padding="15dp"
         android:textColor="@color/black"
         android:textSize="15sp">
